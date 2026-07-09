@@ -4,7 +4,7 @@ title: 제5차 국가철도망 구축계획 수립에 따른 지자체 신규사
 description: 경상북도 내 신규 철도망 도입 시 예상 기대효과를 국가교통체계 개선, 지역발전효과, 교통생활여건 개선, 환경성 및 안전성
   등의 네 가지 항목으로 구분하여 추정 및 예측
 img: /assets/img/77095439_orig.png
-importance: 15
+importance: 17
 category: completed
 period: 2022.11 – 2024.05
 sponsor: 경상북도
