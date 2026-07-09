@@ -3,7 +3,7 @@ layout: page
 title: 스마트폰 개인 활동 데이터에 기반한 거리두기정책 영향 분석
 description: 스마트폰으로 수집한 개인 활동 데이터에 기반하여 활동영역의 시계열적 분석
 img: assets/img/projects/typology.jpg
-importance: 17
+importance: 19
 category: completed
 period: 2022.10 – 2022.12
 sponsor: 국토연구원 (KRIHS)
