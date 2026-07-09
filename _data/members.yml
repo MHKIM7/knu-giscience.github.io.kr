@@ -41,7 +41,7 @@ ms:
   - name: 정연우(Yeonwoo Jung)
     role: MS Student
     since: 2026-1
-    image: members/yeonwoo_jung.jpg
+    image: /assets/img/yw.jpg
     interests: GIS
 ug:
   - name: 황찬범(Chanbum Hwang)
