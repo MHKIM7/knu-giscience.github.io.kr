@@ -3,7 +3,7 @@ layout: page
 title: 도시 간 심리거리에 대한 탐색적 분석
 description: 전국 25개 도시, 300개 도시 쌍의 심리거리 설문조사 데이터를 활용하여 도시 간 심리거리 분석
 img: assets/img/projects/distance.jpg
-importance: 10
+importance: 12
 category: completed
 period: 2023.08 – 2023.09
 sponsor: 국토연구원 (KRIHS)
