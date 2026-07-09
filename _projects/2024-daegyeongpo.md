@@ -6,7 +6,7 @@ img: assets/img/projects/daegyeongpo.jpg
 importance: 5
 category: completed
 period: 2024.12 – 2025.05
-sponsor: Daegu Policy Research Institute
+sponsor: 대구정책연구원 (DPI)
 ---
 
 대구-경주-포항 교통 현황 파악
