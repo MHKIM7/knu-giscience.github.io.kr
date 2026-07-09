@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 탄소중립 공간 유형별 우선구역 통합 시나리오 분석 및 실행전략 연구
-description: 탄소중립 달성을 위해 지자체가 주도하여 도시공간 내 탄소중립 감축수단을 적용할 수 있도록 통합적 공간계획 모형 및 시나리오를 제시하고자 함
+description: 탄소중립 달성을 위해 지자체가 주도하여 도시공간 내 탄소중립 감축수단을 적용할 수 있도록 통합적 공간계획 모형 및 시나리오 제시
 img: /assets/img/p-24.png
 importance: 3
 category: completed
