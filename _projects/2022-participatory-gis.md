@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Mid- to Long-Term Mobility Pattern Change with Participatory Geographic Information
-description: NRF-funded multi-year study using participatory GI to track long-term shifts in mobility behavior.
+title: 참여형 지리정보를 활용한 중장기 모빌리티 패턴 변화에 대한 연구
+description: 한국연구재단의 지원으로 장기간 진행되는 연구이며, 참여형 지리정보를 활용하여 다개년 종단적 관점에서 개인의 모빌리티 패턴이 어떻게 변화하는지 확인
 img: assets/img/projects/pgis.jpg
 importance: 6
 category: ongoing
-period: 2022.09 – ongoing
-sponsor: National Research Foundation of Korea (NRF)
+period: 2022.09 – 2025.2
+sponsor: 한국연구재단 (NRF)
 ---
 
 A long-running NRF-funded study using participatory geographic information
