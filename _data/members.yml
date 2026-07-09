@@ -16,14 +16,14 @@ phd:
     image: /assets/img/jihyun_lee.jpg
     email: leejh930929@gmail.com
     interests: 행태지리
-    note: 한국국토정보공사(LX) 재직중
+    note: 한국국토정보공사(LX) 재직
   - name: 최수정(Soojeong Choi)
     role: 일반대학원 지리학과 박사과정
     since: 2025-1
     image: /assets/img/soojeong_choi.jpg
     email: sjeongchoi21@gmail.com
     interests: " 활동-통행 행태, 시공간 지리학, 행태 모델링"
-    note: 한국교통연구원(KOTI) 재직중
+    note: 한국교통연구원(KOTI) 재직
 ms:
   - name: 조민영(Minyeong Cho)
     role: 일반대학원 지리학과 석사과정
@@ -60,8 +60,8 @@ alumni:
   - name: 심지윤(Jiyun Shim)
     role: 지리학 석사 (graduated 2022-1)
     image: /assets/img/jiyun_shim.jpg
-    note: 한국교통연구원(KOTI) 재직중
+    note: 한국교통연구원(KOTI) 재직
   - name: 정다빈(Dabin Jeong)
     role: 지리학 석사 (graduated 2023-2)
     image: /assets/img/dabin_jeong.jpg
-    note: 한국교통연구원(KOTI) 재직중
+    note: 한국교통연구원(KOTI) 재직
