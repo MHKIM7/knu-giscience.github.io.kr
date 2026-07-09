@@ -10,51 +10,51 @@ pi:
     position: 부교수, 경북대학교 지리학과 (since 2025.04)
     orcid: 0000-0003-4007-7048
 phd:
-  - name: 이지현(Jihyun Lee
+  - name: 이지현(Jihyun Lee)
     role: 일반대학원 지리학과 박사과정
     since: 2017-1
     image: members/jihyun_lee.jpg
     interests: Behavioral Geography
     note: 한국국토정보공사(LX) 재직중
-  - name: Soojeong Choi
+  - name: 최수정(Soojeong Choi)
     role: 일반대학원 지리학과 박사과정
     since: 2025-1
     image: members/soojeong_choi.jpg
     interests: Activity-Travel Behavior, Time Geography, Behavioral Modeling
     note: 한국교통연구원(KOTI) 재직중
 ms:
-  - name: Minyeong Cho
-    role: MS Student
+  - name: 조민영(Minyeong Cho)
+    role: 일반대학원 지리학과 석사과정
     since: 2022-1
     image: members/minyeong_cho.jpg
     interests: Behavioral Geography, Disasters, GIS
-  - name: Myeonghwan Kim
-    role: MS Student
+  - name: 김명환(Myeonghwan Kim)
+    role: 일반대학원 지리학과 석사과정
     since: 2025-1
     image: members/myeonghwan_kim.jpg
     interests: GIS, Transportation Geography, Transport Equity
-  - name: Minjeong Choi
-    role: MS Student
+  - name: 최민정(Minjeong Choi)
+    role: 일반대학원 지리학과 석사과정
     since: 2026-1
     image: members/minjeong_choi.jpg
     interests: GIS, Transportation Geography
-  - name: Yeonwoo Jung
+  - name: 정연우(Yeonwoo Jung)
     role: MS Student
     since: 2026-1
     image: members/yeonwoo_jung.jpg
     interests: GIS
 ug:
-  - name: Chanbum Hwang
-    role: BS+MS Combined Program
+  - name: 황찬범(Chanbum Hwang)
+    role: 지리학과 학석사연계과정
     since: 2025-2
     image: members/chanbum_hwang.jpg
     interests: GIS, Transportation Geography, Urban Geography
 alumni:
   - name: Jiyun Shim
-    role: MS (graduated 2022-1)
+    role: 지리학 석사 (graduated 2022-1)
     image: members/jiyun_shim.jpg
     note: 한국교통연구원(KOTI) 재직중
   - name: Dabin Jeong
-    role: MS (graduated 2023-2)
+    role: 지리학 석사 (graduated 2023-2)
     image: members/dabin_jeong.jpg
     note: 한국교통연구원(KOTI) 재직중
