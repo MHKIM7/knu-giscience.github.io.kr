@@ -53,9 +53,9 @@ content:
       - { name: description, label: Description, type: string }
       - name: images
         label: Images
-        type: list
-        fields:
-          - { name: image, label: Image, type: image, options: { path: news } }
+        type: image
+        list: true
+        options: { path: news }
       - { name: date, label: "Date (예: 2026.07.09 또는 2026.07.09 - 2026.07.10)", type: string }
 
   # ===== MEMBERS =====
