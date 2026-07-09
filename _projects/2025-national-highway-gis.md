@@ -1,20 +1,16 @@
 ---
 layout: page
-title: National Highway Network — GIS Policy Impact Analysis
-description: Building a unified road GIS-DB and quantifying how new construction reshapes accessibility and service levels.
-img: assets/img/projects/highway.jpg
+title: 국가간선도로망 구축에 따른 정책효과 GIS 분석
+description: 2024년 기준 고속국도, 일반국도, 국가지원지방도의 기초 GIS-DB 구축 및 시설 데이터 갱신을 통한 도로 건설 효과 및 성과 지표의 산출
+img: /assets/img/projects/highway.jpg
 importance: 1
 category: ongoing
 period: 2025.10 – 2025.12
-sponsor: Korea Research Institute for Human Settlements (KRIHS)
+sponsor: 국토연구원 (KRIHS)
 ---
+도로망 변화에 따른 서비스 수준, 주요 시설 연계성, 접근성, 인구 및 행정구역 기반의 서비스 영역 분석을 진행함
 
-Building a GIS database of expressways, national highways, and national-aid
-provincial roads to evaluate the spatial impacts of road construction.
+도로 서비스 및 주요 시설 접근성 변화의 종합적 평가를 진행함
 
-**Sponsor**: 국토연구원 (KRIHS)
+**Sponsor**: 국토연구원 (KRIHS)  
 **Period**: 2025.10 – 2025.12
-
-The project develops a unified GIS-DB of major roads in South Korea and
-quantifies how their construction reshapes regional accessibility, land
-use, and travel demand.
