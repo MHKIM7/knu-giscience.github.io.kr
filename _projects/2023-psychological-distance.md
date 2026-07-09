@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Inter-City Psychological Distance — Exploratory Analysis
-description: Survey-based analysis and visualization of psychological distance between 25 major Korean cities.
+title: 도시 간 심리거리에 대한 탐색적 분석
+description: 전국 25개 도시, 300개 도시 쌍의 심리거리 설문조사 데이터를 활용하여 도시 간 심리거리 분석
 img: assets/img/projects/distance.jpg
 importance: 10
 category: completed
 period: 2023.08 – 2023.09
-sponsor: Korea Research Institute for Human Settlements (KRIHS)
+sponsor: 국토연구원 (KRIHS)
 ---
 
-Survey-based analysis and visualization of psychological distance between
-25 major Korean cities.
+전국 25개 도시, 300개 도시 쌍의 심리거리 설문조사 데이터를 활용하여 도시 간 심리거리 분석
+도시 간 심리거리를 다차원척도법과 거리 카토그램을 활용하여 시각화
 
 **Sponsor**: 국토연구원 (KRIHS)
 **Period**: 2023.08 – 2023.09
