@@ -3,7 +3,7 @@ layout: page
 title: 국토교통 분야 미래 대응 과제 연구
 description: 실제 생활과 활동에 기반한 일상적 통행패턴의 공간적 범위 파악 및 행정경계를 초월하는 실증적인 생활권 도출
 img: assets/img/projects/future.jpg
-importance: 9
+importance: 10
 category: completed
 period: 2023.10 – 2024.03
 sponsor: 국토교통부 (MOLIT)
