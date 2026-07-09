@@ -8,8 +8,10 @@ category: completed
 period: 2024.04 – 2025.01
 sponsor: 한국연구재단 (NRF)
 ---
-Survey of domestic and international classification systems and review of
-improvement directions for the academic-standard classification.
+
+문헌조사와 분류체계 담당자 면담을 통해 국내외 주요 분류체계에 대한 현황 파악
+한국연구재단 책임전문위원의 의견을 수렴하여 학술표준분류(ASC)와 국가과학기술표준분류(K-NSCC)의 개선 방향 검토
+OECD Frascati 매뉴얼과 CRDC 항목을 참조하여 새로운 분류 층위 도입 또는 기술 중심의 분류 항목의 연구 수용성 증대와 같은 ASC와 K-NSCC 분류 항목의 개선 방향 제안
 
 **Sponsor**: 한국연구재단 (NRF)
 **Period**: 2024.04 – 2025.01
