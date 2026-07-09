@@ -90,7 +90,7 @@ nav_order: 4
   {% for n in sorted_news %}
     <div class="proj">
       <div class="meta">
-        <span class="label">Date</span>{{ n.date | date: "%Y.%m.%d" }}
+        <span class="label">Date</span>{{ n.date }}
       </div>
       <div>
         <h3>{{ n.title }}</h3>
