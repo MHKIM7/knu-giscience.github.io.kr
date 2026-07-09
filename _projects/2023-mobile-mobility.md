@@ -1,16 +1,15 @@
 ---
 layout: page
-title: National Mobility Analysis using Mobile Combined Data
-description: Population-scale mobility analysis based on combined mobile-network and supplementary data.
+title: 모바일 결합정보를 활용한 국민 모빌리티 분석
+description: 모바일 네트워크 데이터와 부가 데이터셋 결합에 기반한 인구 규모의 모빌리티 분석
 img: assets/img/projects/mobile.jpg
 importance: 21
 category: completed
 period: 2023
-sponsor: Korea Transport Institute (KOTI)
+sponsor: 한국교통연구원 (KOTI)
 ---
 
-Population-scale mobility analysis based on combined mobile-network and
-supplementary datasets, supporting national-level transportation planning.
+모바일 네트워크 데이터와 부가 데이터셋 결합에 기반한 인구 규모의 모빌리티 분석
 
 **Sponsor**: 한국교통연구원 (KOTI)
 **Period**: 2023
